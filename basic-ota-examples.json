@@ -1,0 +1,10 @@
+{
+  "Configurations": [
+    {
+      "Board": "NODEMCU_32S",
+      "Device": "3C:71:BF:AA:6D:E0",
+      "Version": "1.0.0",
+      "URL": "https://drive.google.com/file/d/1ErWOZAk8pFFE6WLm2NHXsuGZWLQGaLuf/view?usp=sharing"
+    }
+  ]
+}
