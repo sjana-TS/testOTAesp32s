@@ -3,8 +3,8 @@
     {
       "Board": "NODEMCU_32S",
       "Device": "3C:71:BF:AA:6D:E0",
-      "Version": "1.0.0",
-      "URL": "https://sjana-ts.github.io/testOTAesp32s/basic_ota_example_nodemcu-32s_v1.0.0_IO-22.bin"
+      "Version": "1.0.1",
+      "URL": "https://sjana-ts.github.io/testOTAesp32s/basic_ota_example_nodemcu-32s_v1.0.1_IO-2.bin"
     }
   ]
 }
