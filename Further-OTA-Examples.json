@@ -2,9 +2,9 @@
   "Configurations": [
     {
       "Board": "NODEMCU_32S",
-      "Version": "1.0.1",
+      "Version": "1.0.0",
 	  "Device": "3C:71:BF:AA:6D:E0",
-      "URL": "https://sjana-ts.github.io/testOTAesp32s/Further-OTA-Examples_nodemcu-32s_v1.0.1_gpio-22.bin.bin"
+      "URL": "https://sjana-ts.github.io/testOTAesp32s/Further-OTA-Examples_nodemcu-32s_v1.0.0_gpio-22.bin.bin"
     }
   ]
 }
