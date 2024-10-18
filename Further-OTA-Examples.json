@@ -4,7 +4,7 @@
       "Board": "NodeMCU_32S",
       "Version": "2.0.0",
       "Device": "88:13:BF:01:DF:B8",
-      "URL": "https://github.com/sjana-TS/testOTAesp32s/esp32s_test.ino.bin"
+      "URL": "https://sjana-ts.github.io/testOTAesp32s/sketch_oct18a.ino.nodemcu-32s.bin"
     }
   ]
 }
