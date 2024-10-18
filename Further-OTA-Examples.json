@@ -1,9 +1,9 @@
 {
   "Configurations": [
     {
-      "Board": "NODEMCU_32S",
+      "Board": "NodeMCU_32S",
       "Version": "2.0.0",
-      "Device": "3C:71:BF:AA:6D:E0",
+      "Device": "88:13:BF:01:DF:B8",
       "URL": "https://github.com/sjana-TS/testOTAesp32s/esp32s_test.ino.bin"
     }
   ]
